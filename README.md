@@ -7,6 +7,14 @@ After, it just follows regular Dijktra from the start station at top charge and 
 only charge enough to reach the destination.  
 The number of stages is controlled by the PRECISION macro in 'geo.cpp'. As this value approaches INF the more precise the algorithm should be.
 
+## Building
+
+I wrote the project in a way where it can be built with the compilation command provided in the original read me. 
+If you find any problem feel free to contact me.
+
+'g++ -std=c++11 -O1 main.cpp -o candidate_solution'
+
+## Testing
 When the TEST macro is set to 1 , this initiates some tests.
 
 Previous considerations:
