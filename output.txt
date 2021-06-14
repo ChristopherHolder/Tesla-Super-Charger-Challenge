@@ -1,0 +1,9 @@
+Albert_Lea_MN, Mauston_WI
+
+Salisbury_MD, Hagerstown_MD, 0.26, Cranberry_PA, 0.34, Macedonia_OH, 0.18, Maumee_OH, 0.24, St._Joseph_MI, 0.3, Madison_WI, 0.34, Onalaska_WI, 0.22, Albert_Lea_MN, 0.22, Worthington_MN, 0.24, Mitchell_SD, 0.26, Murdo_SD, 0.28, Rapid_City_SD, 0.26, Gillette_WY, 0.24, Billings_MT, 0.38, West_Yellowstone_MT, 0.3, Idaho_Falls_ID, 0.2, Twin_Falls_ID, 0.28, Boise_ID, 0.1, Baker_City_OR
+
+Same start and end destination
+Miner_MO, St._Charles_MO, 0.3, Columbia_MO, 0.06, Independence_MO, 0.38, Council_Bluffs_IA, 0.32, Worthington_MN
+
+Council_Bluffs_IA, Worthington_MN, 0.22, Albert_Lea_MN, 0.36, Mauston_WI, 0.34, Sheboygan_WI, 0.12, Cadillac_MI
+
